@@ -1,0 +1,5 @@
+faster-whisper
+ctranslate2
+librosa
+soundfile
+pyaudio
